@@ -1,2 +1,2 @@
 # Mako
-# Discord Moderation Bot 
+## Discord Moderation Bot 
